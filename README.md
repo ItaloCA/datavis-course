@@ -15,3 +15,9 @@
 ---
 
 Para saber mais sobre a sintaxe markdown, veja [este guia](https://guides.github.com/features/mastering-markdown/).
+
+
+<h2> Exercise 1 - Vega-Lite API <h2/>
+
+<iframe width="100%" height="100%" frameborder="0"
+  src="https://observablehq.com/embed/@italoca/vega-lite-exercise1?cells=horsepowerBarChart"></iframe>
